@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://cupompetz.github.io/cupom10/sitemap.xml
