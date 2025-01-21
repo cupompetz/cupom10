@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cupompetz.github.io/cupom10/</loc>
-    <lastmod>2025-01-21T17:00:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cupompetz.github.io/cupom10/imagem1.jpg</image:loc>
+      <image:caption>Descrição da imagem 1</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cupompetz.github.io/cupom10/imagem2.jpg</image:loc>
+      <image:caption>Descrição da imagem 2</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cupompetz.github.io/cupom10/pagina2.html</loc>
+    <image:image>
+      <image:loc>https://cupompetz.github.io/cupom10/imagem3.jpg</image:loc>
+      <image:caption>Descrição da imagem 3</image:caption>
+    </image:image>
   </url>
 </urlset>
