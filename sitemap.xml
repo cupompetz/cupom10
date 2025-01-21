@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cupompetz.github.io/cupom10/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
     <image:image>
       <image:loc>https://cupompetz.github.io/cupom10/imagem.jpg</image:loc>
-      <image:caption>Descrição da imagem 1</image:caption>
+      <image:caption>Descrição da imagem</image:caption>
     </image:image>
   </url>
 </urlset>
